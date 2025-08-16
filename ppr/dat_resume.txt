@@ -1,0 +1,42 @@
+fullname: Brenda Santillan
+address: Deerfield Beach, FL 33442
+phone: (555) 555-555
+email: example@example.com
+sh_summary: Professional Summary
+sc_summary: Dynamic and results-driven sales representative with over a decade of experience in B2B sales \nenvironments. Proven track record of exceeding sales targets and building strong client relationships. \nPossess excellent communication and negotiation skills to drive revenue growth and enhance customer satisfaction.
+sh_work_history: Work History
+sc_work_history_tpl: 3|hd-work-history-tpl
+sc_work_history_title_no_1: Senior Sales Representative
+sc_work_history_time_no_1: 11/2021 to Current
+sc_work_history_place_no_1: 121 Florida
+sc_work_history_state_no_1: Miami, FL
+sc_work_history_info_no_1: + Consistently exceeded quarterly sales targets by 20%, generating over $500,000 in quarterly revenue.\n+ Cultivate and maintain relationships with key accounts, resulting in a 30% increase in client retention.\n+ Lead a team of 15 sales representatives, develop strategies and implement sales plans that expand the client base by 25% within one year.
+sc_work_history_title_no_2: Sales Representative
+sc_work_history_time_no_2: 09/2016 to 10/2021
+sc_work_history_place_no_2: Eagle Ridge Promotions
+sc_work_history_state_no_2: Miami, FL
+sc_work_history_info_no_2: + Conducted product demonstrations and presentations, leading to a 40% increase in product adoption.\n+ Negotiated contracts and pricing agreements, resulting in a 15% increase in average deal size.\n+ Enhanced conversion rates by 15% by implementing targeted sales strategies and improved product presentations.
+sc_work_history_title_no_3: Sales Associate
+sc_work_history_time_no_3: 06/2013 to 08/2016
+sc_work_history_place_no_3: Advantage Solutions
+sc_work_history_state_no_3: Miami, FL
+sc_work_history_info_no_3: + Provided exceptional customer service, resulting in a 95% customer satisfaction rating.\n+ Prospected and qualified leads through cold calling and email campaigns, maintaining a lead conversion rate of 25%.\n+ Collaborated with the marketing team to develop targeted sales collateral, increasing engagement by 35%.
+sc_work_history_info_repchar: +
+sc_work_history_info_rc_+: &#x2022
+sc_skills_1_repchar: +
+sc_skills_1_rc_+: &#x2022
+sc_skills_2_repchar: +
+sc_skills_2_rc_+: &#x2022
+sh_skills: Skills
+sc_skills_1: + Negotiation\n+ Relationship management\n+ Product knowledge\n+ Sales strategy development
+sc_skills_2: + Customer service\n+ CRM software (Salesforce)\n+ Presentation skills\n+ Time management
+sh_education: Education
+sc_education_degree: BBA
+sc_education_subject: Marketing
+sc_education_school: Florida International University
+sc_education_place: Miami, FL
+sh_certification: Certifications
+sc_certification: + Salesforce Certified Sales Professional (SCSP) - (Updated 2024)\n+ Certified Sales Professional (CSP) - (Updated 2023)\n+ Negotiation Skills Certification (NSC) - (2022)
+sc_certification_repchar: +
+sc_certification_rc_+: &#x2022
+
