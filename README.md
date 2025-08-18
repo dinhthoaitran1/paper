@@ -34,6 +34,9 @@ perl paper.pl ppr/dat_resume.txt ppr/tpl_resume.html ppr/rsl_resume.html
 + Check result HTML file:
 =[SYNTAX]=>
 cat ppr/rsl_resume.html | less
-
-
 ```
+
+![](https://github.com/dinhthoaitran1/paper/blob/main/ppr/rsl_resume.pdf)
+
+
+
