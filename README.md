@@ -3,6 +3,11 @@
 ```
 + Software URL: https://github.com/dinhthoaitran1/paper
 
++ ** If you need some similar software (legally, small, useful, not high tech),
+please send your order to dinhthoaitran1@gmail.com **
+  o This software cost: 2 man-hours ($23 / hour)
+  o This software is MIT License
+
 + How to use "paper" in Mackbook:
   o It requires Perl 5 which is available on Terminal app.
 
