@@ -8,7 +8,8 @@
 
 + Download Source: https://github.com/dinhthoaitran1/paper/archive/refs/heads/main.zip
 
-+ Assume you are in /Users/someusers/Documents, please copy paper-main.zip from "Downloads" folder to this folder.
++ Assume you are in /Users/someusers/Documents, please copy paper-main.zip from "Downloads"
+folder to this folder.
  
 =[SYNTAX]=>
 unzip paper-main.zip
