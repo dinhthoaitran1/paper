@@ -25,7 +25,7 @@ if ($#ARGV != 2) {
   exit();
 }
 
-open my $fh, '<', $ARGV[0] or die "\n=[perl5use]=> Cannot open data file: $!\n";
+open my $fh, '<', $ARGV[0] or die "\n=[E]=> Cannot open data file: $!\n";
 
 my %data;
 my @sections;
