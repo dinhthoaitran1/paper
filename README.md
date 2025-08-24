@@ -1,20 +1,6 @@
 # [ paper ] Perl 5 script to generate printed paper in HTML format
 
 ```
-+ Software URL: https://github.com/dinhthoaitran1/paper
-
-+ If you need "Converting web design to HTML & CSS coding" (JavaScript for responsive design,
-no JavaScript other functions, no programming languages), please visit:
-https://www.lancers.jp/menu/detail/1304895
-
-+ ** If you need some similar software (legally, small, useful, not high tech),
-please send your order to dinhthoaitran1@gmail.com **
-  o This software cost: 2 man-hours ($23 / hour)
-  o This software is MIT License ( https://opensource.org/license/mit )
-
-+ How to use "paper" in Mackbook:
-  o It requires Perl 5 which is available on Terminal app.
-
 + Download Source: https://github.com/dinhthoaitran1/paper/archive/refs/heads/main.zip
 
 + Assume you are in /Users/someusers/Documents, please copy paper-main.zip from "Downloads"
@@ -44,7 +30,5 @@ perl paper.pl ppr/dat_resume.txt ppr/tpl_resume.html ppr/rsl_resume.html
 =[SYNTAX]=>
 cat ppr/rsl_resume.html | less
 
-+ Print ppr/rsl_resume.html to pdf file in Safari browser.
-Download URL: https://github.com/dinhthoaitran1/paper/blob/main/ppr/rsl_resume.pdf
 ```
 
