@@ -34,7 +34,7 @@ open my $fh, '<', $ARGV[0] or die "\n=[E]=> Cannot open data file: $!\n";
 my $text = '';
 
 while (my $line = <$fh>) {
-  $text = $text . "\n" . $line;
+  $text = $text . $line;
 }
 
 close $fh or die "\n=[E]=> Cannot close data file: $!\n";
