@@ -40,7 +40,7 @@ while (my $line = <$fh>) {
 close $fh or die "\n=[E]=> Cannot close data file: $!\n";
 
 $text_utf_8 = decode("UTF-8", $text);
-$text_shift_jis = encode("shiftjis", $text_utf_8);
+$text_shift_jis = encode("shift_jis", $text_utf_8);
 
 $result_file = $ARGV[1];
 
